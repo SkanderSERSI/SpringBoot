@@ -1,0 +1,6 @@
+tn\ims\mvc\AppConfig.class
+tn\ims\mvc\dao\ImplContactDao.class
+tn\ims\mvc\model\Contact.class
+tn\ims\mvc\client\RestClient.class
+tn\ims\mvc\dao\ContactDao.class
+tn\ims\mvc\ContactController.class
