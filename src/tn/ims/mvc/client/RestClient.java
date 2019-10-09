@@ -9,7 +9,7 @@ import tn.ims.mvc.model.Contact;
 
 public class RestClient {
 
-	private static String url="http://localhost:8080/Client-Serveur-REST/contacts";
+	private static String url="http://localhost:8080/spring-mvc-exercice-13/contacts";
 
 	public static void main(String[] args) {
 		RestTemplate restTemplate=new RestTemplate();
